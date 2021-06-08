@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "github",
+    "url": "https://github.com/astuary"
+  },
+  {
+    "id": 1,
+    "name": "linkedin",
+    "url": "https://www.linkedin.com/in/kunjal-panchal/"
+  },
+  {
+    "id": 2,
+    "name": "email",
+    "url": "mailto:kunjalspanchal@gmail.com"
+  }
+]
