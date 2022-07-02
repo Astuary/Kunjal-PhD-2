@@ -14,10 +14,9 @@ const BlogIndex = ({ data }) => {
   return (
     <>
       <Layout> 
-        <SEO title="Blog Home Page" />
+        <SEO title="Blog" />
         <Intro>
           <ContainerLayout>
-
             <SubTitle>
               Articles
             </SubTitle>

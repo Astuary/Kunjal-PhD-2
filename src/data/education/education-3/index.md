@@ -1,12 +1,12 @@
 ---
 title: Bachelor of Engineering in Computer Science 
-tags: ['Computer Vision', 'Image Processing']
+tags: ['Computer Science']
 categories: ['Faculty of Technology - The Maharaja Sayajirao University of Baroda, India']
 image: './msu.jpg'
 date: "2021-06-14T22:12:03.284Z"
 period: 'August 2015 - April 2019'
 gpa: '4.0/4.0'
-description: "• ...write thesis/research area here...<br/> • Courses: "
+description: "Courses: Artificial Intelligence, Data Structures, Databases, Object Oriented Programming, Software Engineering, Design and Analysis of Algorithms, Network Security"
 ---
 
 

@@ -4,8 +4,8 @@ module.exports = {
   Sitelogo: '#',
   SiteLogoText: 'Kunjal',
   SiteAuthor: 'Kunjal Panchal',
-  SiteDescription: 'PhD Student',
-  defaultDescription: 'Student Portfolio!', 
+  SiteDescription: 'Kunjal Panchal - PhD Student',
+  defaultDescription: 'Kunjal Panchal - Portfolio', 
   githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
       name
@@ -57,5 +57,5 @@ module.exports = {
     email: 'kunjalspanchal@gmail.com',
     phone: 'phone number',
   },
-  SiteCopyright: '2020',
+  SiteCopyright: '2022',
 };

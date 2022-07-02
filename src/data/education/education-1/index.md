@@ -1,16 +1,16 @@
 ---
 title: Doctor of Philosophy in Computer Science 
-tags: ['Machine Learning', 'Affective Computing', 'Human-Computer Interaction']
-categories: ['College of Information and Computer Sciences - University of Massachusetts, Amherst']
+tags: ['Federated Learning']
+categories: ['Manning College of Information and Computer Sciences - University of Massachusetts, Amherst']
 image: './cics.jpg'
 date: "2021-06-16T22:12:03.284Z"
 period: 'September 2021 - Current'
-gpa: '-.-/4.0'
-description: "• ...write thesis/research area here...<br/> • Courses: Reinforcement Learning"
+gpa: '3.7/4.0'
+description: "Research Area: Personalization in Federated Learning"
 ---
 
 
-Choose Your Champion
+<!-- Choose Your Champion
 --------------------------
 Whether you like to dive straight into the fray, support your teammates, or something in between, there’s a spot for you on the Rift.
 
@@ -33,7 +33,7 @@ support
 I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg). -->
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
 > eggs in brine, or packing each egg in damp, salted charcoal. In Asian

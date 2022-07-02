@@ -3,7 +3,7 @@ import colors from "../../../data/variables";
 
 export const ButtonDefault = styled.a`
   cursor: pointer;
-  margin: 10% 0%;
+  margin: 0% 0%;
   font-family: "GT-Walsheim-Pro-Medium";
   font-size: inherit;
   text-align: center;

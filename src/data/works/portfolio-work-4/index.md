@@ -1,6 +1,6 @@
 ---
 title:  Machine Learning Mentor 
-tags: ['Machine Learning', 'Artificial Intelligence', 'Computer Vision', 'Affective Computing', 'Mentoring', 'Education', 'Internship']
+tags: ['Machine Learning', 'Artificial Intelligence', 'Affective Computing', 'Mentoring', 'Internship']
 categories: ['SureStart; New York City, NY']
 image: './surestart_logo.png'
 date: "2021-02-16T22:12:03.284Z"

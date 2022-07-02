@@ -17,7 +17,7 @@ export const FooterStyle = styled.footer`
 		text-align: center;
 	}
 	.quote {
-		font-size: 4rem;
+		font-size: 2rem;
 		font-family: "GT-Walsheim-Pro-Bold";
 		line-height: 1.2;
 		color: ${variables.primary};
@@ -48,6 +48,7 @@ export const FooterBody = styled.div`
 	@media(max-width: ${variables.breakpointPhone}) {
 		grid-template-columns: 1fr;
 	}
+	margin-bottom: 100px;
 `
 export const FooterSocialMedia = styled.ul`
 	list-style: none;
@@ -58,7 +59,7 @@ export const FooterSocialMedia = styled.ul`
 		justify-content: space-between;
 	}
 	li {
-		margin-bottom: 1.5rem;
+		margin-bottom: 0.2rem;
 	}
 `
 export const MediaLink = styled.a`

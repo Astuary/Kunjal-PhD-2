@@ -22,14 +22,14 @@ const About = () => {
           <AboutSection>
             <div>
               <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
-              <SubTitle><div style={{color:'#ff2d2d'}}>PhD student</div> in <b className="text-secondary lined-link">Computer Science</b> at <div style={{color: '#ff2d2d'}}>UMass, Amherst</div></SubTitle>
+              {/* <SubTitle><div style={{color:'#ff2d2d'}}>PhD student</div> in <b className="text-secondary lined-link">Computer Science</b> at <div style={{color: '#ff2d2d'}}>UMass, Amherst</div></SubTitle> */}
             </div> 
             <div>
               <Title> Hello, I’m Kunjal </Title>
-              <Text> I'm a PhD student at CICS, UMass Amherst; hailing from <b className="text-primary lined-link">India</b>. </Text>
-              <Text> My main area of research is Multimodal Fusion in Machine Learning, and Affective Computing.</Text>
-              <Text> I am currently a part of MLSys and HCI labs at UMass, concocting ways to make AI emotionally available for a more empathetic future. </Text>
-              <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
+              <Text> I'm a PhD student at Manning College of Information and Computer Sciences, Universtiy of Massachusetts - Amherst; hailing from India. </Text>
+              <Text> My main area of research is <b className="text-primary lined-link">Personalized Federated Learning</b>, advised by Prof. Hui Guan.</Text>
+              <Text> I am currently a part of MLSys lab at UMass.</Text>
+              <ResumeButton href="resume_v2.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
         </ContainerLayout>

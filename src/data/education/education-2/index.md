@@ -1,12 +1,12 @@
 ---
 title: Master of Science in Computer Science 
-tags: ['Machine Learning', 'Human-Computer Interaction', 'Cryptography']
-categories: ['College of Information and Computer Sciences - University of Massachusetts, Amherst']
+tags: ['Multi-modal Machine Learning', 'Cryptography']
+categories: ['Manning College of Information and Computer Sciences - University of Massachusetts, Amherst']
 image: './cics.jpg'
 date: "2021-06-15T22:12:03.284Z"
 period: 'September 2019 - May 2021'
 gpa: '3.6/4.0'
-description: "• ...write thesis/research area here...<br/> • Courses: Machine Learning, Computer Vision, Advanced Natural Language Processing, Robotics, Optimization in Computer Science, Modern Computer Architecture, Advanced Cryptography, Advanced Algorithms"
+description: "Courses: Machine Learning, Computer Vision, Advanced Natural Language Processing, Robotics, Optimization in Computer Science, Modern Computer Architecture, Advanced Cryptography, Advanced Algorithms"
 ---
 
 :My Journey:<br/>
