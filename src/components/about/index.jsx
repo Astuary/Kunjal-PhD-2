@@ -29,7 +29,7 @@ const About = () => {
               <Text> I'm a PhD student at Manning College of Information and Computer Sciences, Universtiy of Massachusetts - Amherst; hailing from India. </Text>
               <Text> My main area of research is <b className="text-primary lined-link">Personalized Federated Learning</b>, advised by Prof. Hui Guan.</Text>
               <Text> I am currently a part of MLSys lab at UMass.</Text>
-              <ResumeButton href="resume_v2.pdf" target="_blank"> Download resume </ResumeButton>
+              <ResumeButton href="Kunjal_Panchal_CV_Nov_2022.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
         </ContainerLayout>
