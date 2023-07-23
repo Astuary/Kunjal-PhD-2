@@ -26,13 +26,13 @@ const ResearchIndex = ({ data }) => {
                   <ResearchPost key={node.fields.slug}>
                     <div className="content">
                       <header>
-                        <div>
+                        <div style={{lineHeight: '40px'}}>
                           {node.frontmatter.authors.map((tag, index) => (<Category key={index}>{tag}</Category>))}
                         </div>
                         <Title>
-                          <Link className="text-primary lined-link" style={{ boxShadow: `none` }} to={node.fields.slug}>
+                          <a className="text-primary lined-link" style={{ boxShadow: `none` }} href={node.frontmatter.url}>
                             {title}
-                          </Link>
+                          </a>
                         </Title>
                         <Venue>{node.frontmatter.venue}</Venue>
                         <Period>{node.frontmatter.period}</Period>
@@ -81,6 +81,7 @@ export const pageQuery = graphql`
             authors
             venue
             period
+            url
             description
           }
         }

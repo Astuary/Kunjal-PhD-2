@@ -5,7 +5,7 @@ categories: ['Adobe; Bangalore, India']
 image: './adobe-logo.png'
 date: "2022-07-02T22:12:03.284Z"
 period: 'May 2022 - Aug 2022'
-description: "• Worked on solving personalization in federated learning problems specific to streaming setting </br>• Currently improving on the generalization bounds of Scaffold and FedDyn, and working on proving the relation between global generalization and personalized performances of clients "
+description: "• Built a federated solution of personalized recommendation systems and classifiers for real-time on-device learning, by using early-stopping for client-side updates and drift adaptation at server-side, to achieve robustness against concept drift (distribution change with respect to time). </br> • Presented a drift-aware adaptive optimization strategy that can quickly adapt to various concept drift patterns (sudden, incremental, and recurrent), by taking into account historical gradient updates and identifying change in gradient magnitude as drifts, to achieve lowest accuracy drop and fastest recovery from the said drifts. </br> • Evaluated the proposed algorithm on benchmark computer vision and natural language processing tasks, achieving the lowest accuracy dip difference (the lower, the better) of 1.48%-2.99%, while the best performing baselines exhibit 3.15%-9.22%. "
 ---
 
 
