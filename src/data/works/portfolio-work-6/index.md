@@ -9,5 +9,5 @@ description: "• Built a federated solution of personalized recommendation syst
 ---
 
 
-:My journey:<br/>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6795392367877877760" height="366" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<!-- :My journey:<br/>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6795392367877877760" height="366" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
